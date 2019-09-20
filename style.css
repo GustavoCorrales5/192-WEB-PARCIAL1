@@ -1,0 +1,27 @@
+.principal{
+    margin-top:100px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: stretch;
+    align-items: center;
+}
+
+.principal__image{
+   
+    width:250px;
+    height: 250px;
+    background-color: gray;
+    border-radius: 10px;
+}
+
+.principal__slider{
+    width: 250px;
+    margin-top:50px;
+}
+
+.principal__url{
+    width:250px;
+}
+
